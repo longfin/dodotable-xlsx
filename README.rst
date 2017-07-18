@@ -12,11 +12,12 @@ Excel (.xlsx) exporter for dodotable_.
 
 Changelog
 ---------
-
 Version 0.2.1
 ~~~~~~~~~~~~~
 
 To be released.
+
+- Added ``chunk_size`` parameter on ``write_table_to_workbook()`` and ``write_table_to_worksheet``.
 
 
 Version 0.2.0
